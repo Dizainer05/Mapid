@@ -1,0 +1,76 @@
+/* Убрана анимация shimmer и фоновая заливка элементов */
+
+/* Основной стиль карточки */
+.card {
+    max-width: 800px; 
+    height: 800px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid #d9d9d9;
+  }
+  
+  /* Шапка карточки */
+  .card .header {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Блок с аватаркой */
+  .header .img {
+    height: 80px;
+    width: 80px;
+    background: #f0f0f0;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  /* Текстовые детали рядом с аватаркой */
+  .header .details {
+    margin-left: 20px;
+  }
+  
+  /* Описание карточки */
+  .card .description {
+    margin-top: 20px;
+    color: #333;
+    font-size: 16px;
+  }
+  
+  /* Кнопки внизу карточки */
+  .card .btns {
+    margin-top: auto;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .card .btns .btn {
+    display: inline-block;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  /* Убираем любую фон-заливку, которая была раньше */
+  .details .name,
+  .details .about,
+  .description .line {
+    background: transparent !important;
+  }
+  
+  .details .name,
+  .details .about {
+    height: auto !important;
+    width: auto !important;
+    margin: 0 !important;
+    color: #000 !important;
+    font-weight: 600;
+  }
+  
+  .description .line {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  

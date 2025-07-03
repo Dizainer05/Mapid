@@ -1,0 +1,16 @@
+[25-Jun-2025 00:43:39 Etc/GMT-3] create_project.php: Очищенное значение status: 'planning', длина: 8
+[25-Jun-2025 00:43:39 Etc/GMT-3] create_project.php: Файл успешно сохранён: ../uploads/1750801419_Отчет дома №1.docx
+[25-Jun-2025 00:43:39 Etc/GMT-3] create_project.php: Путь к файлу перед сохранением: '../uploads/1750801419_Отчет дома №1.docx'
+[25-Jun-2025 00:43:39 Etc/GMT-3] create_project.php: Данные для createProject: {"user_id":18,"name":"\u0421\u0430\u0434\u0438\u043a4444444","short_name":"\u0421\u0430\u0434 4","description":"","planned_start_date":"2025-12-06","actual_start_date":"2025-06-13","planned_end_date":"2026-04-26","actual_end_date":null,"planned_budget":null,"actual_budget":null,"planned_digitalization":null,"actual_digitalization":null,"planned_labor":null,"actual_labor":null,"status":"planning","lifecycle_stage":"initiation","scale":"small","charter_file_path":"..\/uploads\/1750801419_\u041e\u0442\u0447\u0435\u0442 \u0434\u043e\u043c\u0430 \u21161.docx","expected_resources":"","access_code":"VOEMGPAGPT"}
+[25-Jun-2025 00:43:39 Etc/GMT-3] db.php: Параметры перед привязкой: user_id=18, name='Садик4444444', charter_file_path='../uploads/1750801419_Отчет дома №1.docx', status='planning'
+[25-Jun-2025 00:43:39 Etc/GMT-3] db.php: Значение charter_file_path перед привязкой: ../uploads/1750801419_Отчет дома №1.docx
+[25-Jun-2025 00:43:39 Etc/GMT-3] db.php: Путь к файлу после вставки: NULL
+[25-Jun-2025 00:43:39 Etc/GMT-3] create_project.php: Путь к файлу после сохранения в БД: ''
+[25-Jun-2025 00:52:17 Etc/GMT-3] create_project.php: Очищенное значение status: 'planning', длина: 8
+[25-Jun-2025 00:52:17 Etc/GMT-3] create_project.php: Файл успешно сохранён: ../uploads/1750801937_устав проекта.doc
+[25-Jun-2025 00:52:17 Etc/GMT-3] create_project.php: Путь к файлу перед сохранением: '../uploads/1750801937_устав проекта.doc'
+[25-Jun-2025 00:52:17 Etc/GMT-3] create_project.php: Данные для createProject: {"user_id":18,"name":"\u0421\u0430\u0434\u0438\u043a4444444","short_name":"\u0421\u0430\u0434 4","description":"","planned_start_date":"2025-12-06","actual_start_date":"2025-06-13","planned_end_date":"2026-04-26","actual_end_date":null,"planned_budget":null,"actual_budget":null,"planned_digitalization":null,"actual_digitalization":null,"planned_labor":null,"actual_labor":null,"status":"planning","lifecycle_stage":"initiation","scale":"small","charter_file_path":"..\/uploads\/1750801937_\u0443\u0441\u0442\u0430\u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0430.doc","expected_resources":"","access_code":"9YMZD7DRSY"}
+[25-Jun-2025 00:52:17 Etc/GMT-3] db.php: Параметры перед привязкой: user_id=18, name='Садик4444444', charter_file_path='../uploads/1750801937_устав проекта.doc', status='planning'
+[25-Jun-2025 00:52:17 Etc/GMT-3] db.php: Значение charter_file_path перед привязкой: ../uploads/1750801937_устав проекта.doc
+[25-Jun-2025 00:52:17 Etc/GMT-3] db.php: Путь к файлу после вставки: NULL
+[25-Jun-2025 00:52:17 Etc/GMT-3] create_project.php: Путь к файлу после сохранения в БД: ''

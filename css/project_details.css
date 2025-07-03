@@ -1,0 +1,164 @@
+body {
+  transition: background-color 0.3s, color 0.3s;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+body.loaded {
+  opacity: 1;
+}
+  
+  .navbar {
+    z-index: 1050;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  .offcanvas-start {
+    width: 280px;
+  }
+  .content-container {
+    margin-top: 80px;
+    padding: 20px;
+  }
+  .card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+  }
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  .nav-tabs .nav-link {
+    border-radius: 10px 10px 0 0;
+  }
+  .nav-tabs .nav-link.active {
+    background-color: #007bff;
+    color: white;
+  }
+  .table thead th {
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  .table-hover tbody tr:hover {
+    background-color: rgba(0,0,0,0.05);
+  }
+  
+  /* Темные стили */
+  .dark-mode {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  .dark-mode .navbar,
+  .dark-mode .offcanvas,
+  .dark-mode .card,
+  .dark-mode .modal-content,
+  .dark-mode .content-container {
+    background-color: #1f1f1f !important;
+    color: #e0e0e0 !important;
+  }
+  .dark-mode .navbar-brand,
+  .dark-mode .nav-link {
+    color: #ffffff !important;
+  }
+  .dark-mode .form-control,
+  .dark-mode .form-select {
+    background-color: #2c2c2c !important;
+    color: #e0e0e0 !important;
+    border-color: #444 !important;
+  }
+  .dark-mode .navbar-toggler-icon {
+    filter: invert(1) brightness(2);
+  }
+  .dark-mode .btn-close {
+    filter: invert(1);
+  }
+  .dark-mode .table thead th {
+    background-color: #2c2c2c !important;
+    color: #e0e0e0 !important;
+  }
+  .dark-mode .table-hover tbody tr:hover {
+    background-color: rgba(255,255,255,0.05);
+  }
+  .dark-mode .card {
+    box-shadow: 0 4px 8px rgba(255,255,255,0.1);
+  }
+  .dark-mode .nav-tabs .nav-link.active {
+    background-color: #0056b3;
+  }
+  
+  /* Стили для этапов */
+  .stages-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .stage-button {
+    position: relative;
+    padding: 12px 18px;
+    transition: all 0.2s ease;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  .stage-button:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    border-radius: 50px;
+    background: #b1dae7;
+    width: 45px;
+    height: 45px;
+    transition: all 0.3s ease;
+  }
+  .stage-button span {
+    position: relative;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: #234567;
+  }
+  .stage-button:hover:before {
+    width: 100%;
+    background: #b1dae7;
+  }
+  .progress {
+    margin-top: 5px;
+    height: 10px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+  }
+  .progress-bar {
+    background-color: #007bff;
+  }
+  
+  /* Дополнительные стили для темной темы */
+  .dark-mode .stage-button span {
+    color: #e0e0e0;
+  }
+  .dark-mode .progress {
+    background-color: #444;
+  }
+  .dark-mode .progress-bar {
+    background-color: #0056b3;
+  }
+  /* project_details.css */
+.content-container {
+    margin-top: 70px;
+}
+
+.tab-pane {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+}
+
+.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+}
+
+.form-select[multiple] {
+    height: 150px; /* Высота мультиселекта */
+} 

@@ -1,0 +1,337 @@
+[25-Jun-2025 01:27:07 Etc/GMT-3] planned_budget: '22000000.00'
+[25-Jun-2025 01:27:07 Etc/GMT-3] actual_budget: '8500000.00'
+[25-Jun-2025 01:27:07 Etc/GMT-3] rating: '41.90'
+[25-Jun-2025 15:19:13 Etc/GMT-3] Проектная роль пользователя: не определена
+[25-Jun-2025 15:19:13 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[25-Jun-2025 15:19:25 Etc/GMT-3] Проектная роль пользователя: не определена
+[25-Jun-2025 15:19:25 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[25-Jun-2025 15:19:39 Etc/GMT-3] Проектная роль пользователя: не определена
+[25-Jun-2025 15:19:39 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[25-Jun-2025 15:19:58 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[25-Jun-2025 15:19:58 Etc/GMT-3] Документ успешно загружен: task_id=27, file_name=G.pptx, file_path=../uploads/task_documents/photoproject/1750853998_G.pptx
+[25-Jun-2025 15:20:11 Etc/GMT-3] planned_budget: '12500000.00'
+[25-Jun-2025 15:20:11 Etc/GMT-3] actual_budget: '6800000.00'
+[25-Jun-2025 15:20:11 Etc/GMT-3] rating: '63.53'
+[25-Jun-2025 15:20:12 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[25-Jun-2025 15:20:12 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 582
+[26-Jun-2025 00:42:21 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 00:42:21 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 00:43:06 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 00:43:06 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 00:43:16 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 00:43:16 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 00:43:42 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 00:43:42 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 00:44:05 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 00:44:05 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 00:44:59 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:44:59 Etc/GMT-3] Документ успешно загружен: task_id=28, file_name=Основные элементы лестничной клетки.jpg, file_path=../uploads/task_documents/drawings/1750887899_Основные элементы лестничной клетки.jpg
+[26-Jun-2025 00:45:03 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:45:03 Etc/GMT-3] Документ успешно загружен: task_id=28, file_name=Основные элементы лестницы.jpg, file_path=../uploads/task_documents/documents/1750887903_Основные элементы лестницы.jpg
+[26-Jun-2025 00:45:30 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:45:30 Etc/GMT-3] Документ успешно загружен: task_id=28, file_name=Регламент процесса IDEF0.docx, file_path=../uploads/task_documents/documents/1750887930_Регламент процесса IDEF0.docx
+[26-Jun-2025 00:45:37 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:45:37 Etc/GMT-3] Документ успешно загружен: task_id=28, file_name=Должностная инструкция.docx, file_path=../uploads/task_documents/documents/1750887937_Должностная инструкция.docx
+[26-Jun-2025 00:45:48 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:45:48 Etc/GMT-3] Документ успешно загружен: task_id=28, file_name=Отчет по проекту.pdf, file_path=../uploads/task_documents/reports/1750887948_Отчет по проекту.pdf
+[26-Jun-2025 00:46:04 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:46:04 Etc/GMT-3] Документ успешно загружен: task_id=29, file_name=Ранжирование причин несоответствия.pdf, file_path=../uploads/task_documents/documents/1750887964_Ранжирование причин несоответствия.pdf
+[26-Jun-2025 00:46:09 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:46:09 Etc/GMT-3] Документ успешно загружен: task_id=29, file_name=Регламент процесса BPMN.docx, file_path=../uploads/task_documents/documents/1750887969_Регламент процесса BPMN.docx
+[26-Jun-2025 00:46:17 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:46:17 Etc/GMT-3] Документ успешно загружен: task_id=29, file_name=Отчет по временным ресурсам.pdf, file_path=../uploads/task_documents/reports/1750887977_Отчет по временным ресурсам.pdf
+[26-Jun-2025 00:46:50 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:46:50 Etc/GMT-3] Документ успешно загружен: task_id=30, file_name=Вертикальный разрез здания на чертеже.jpg, file_path=../uploads/task_documents/drawings/1750888010_Вертикальный разрез здания на чертеже.jpg
+[26-Jun-2025 00:46:54 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:46:54 Etc/GMT-3] Документ успешно загружен: task_id=30, file_name=Горизонтальный разрез здания на чертеже.jpg, file_path=../uploads/task_documents/drawings/1750888014_Горизонтальный разрез здания на чертеже.jpg
+[26-Jun-2025 00:47:08 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:47:08 Etc/GMT-3] Документ успешно загружен: task_id=30, file_name=Руководство по качеству СМК.pdf, file_path=../uploads/task_documents/documents/1750888028_Руководство по качеству СМК.pdf
+[26-Jun-2025 00:47:17 Etc/GMT-3] planned_budget: '12500000.00'
+[26-Jun-2025 00:47:17 Etc/GMT-3] actual_budget: '6800000.00'
+[26-Jun-2025 00:47:17 Etc/GMT-3] rating: '63.53'
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:18 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:39 Etc/GMT-3] planned_budget: '12500000.00'
+[26-Jun-2025 00:47:39 Etc/GMT-3] actual_budget: '6800000.00'
+[26-Jun-2025 00:47:39 Etc/GMT-3] rating: '63.53'
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:47:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:48:14 Etc/GMT-3] planned_budget: '12500000.00'
+[26-Jun-2025 00:48:14 Etc/GMT-3] actual_budget: '6800000.00'
+[26-Jun-2025 00:48:14 Etc/GMT-3] rating: '63.53'
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:15 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] planned_budget: '12500000.00'
+[26-Jun-2025 00:48:41 Etc/GMT-3] actual_budget: '6800000.00'
+[26-Jun-2025 00:48:41 Etc/GMT-3] rating: '63.53'
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:48:41 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] planned_budget: '12500000.00'
+[26-Jun-2025 00:51:31 Etc/GMT-3] actual_budget: '6800000.00'
+[26-Jun-2025 00:51:31 Etc/GMT-3] rating: '63.53'
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 298
+[26-Jun-2025 00:51:31 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 298
+[26-Jun-2025 00:53:38 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 00:53:38 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 00:54:22 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 00:54:22 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 00:56:22 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:56:22 Etc/GMT-3] Документ успешно загружен: task_id=31, file_name=схемаПомещения.jpg, file_path=../uploads/task_documents/photoproject/1750888582_схемаПомещения.jpg
+[26-Jun-2025 00:56:36 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:56:36 Etc/GMT-3] Документ успешно загружен: task_id=31, file_name=План корректирующих и предупреждающих действий несоответствия.pdf, file_path=../uploads/task_documents/documents/1750888596_План корректирующих и предупреждающих действий несоответствия.pdf
+[26-Jun-2025 00:57:35 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:57:35 Etc/GMT-3] Документ успешно загружен: task_id=32, file_name=цемет№3 пункт.jpg, file_path=../uploads/task_documents/photoproject/1750888655_цемет№3 пункт.jpg
+[26-Jun-2025 00:57:45 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 00:57:45 Etc/GMT-3] Документ успешно загружен: task_id=32, file_name=Регламент Процедуры.docx, file_path=../uploads/task_documents/documents/1750888665_Регламент Процедуры.docx
+[26-Jun-2025 00:57:52 Etc/GMT-3] planned_budget: '18200000.00'
+[26-Jun-2025 00:57:52 Etc/GMT-3] actual_budget: '4200000.00'
+[26-Jun-2025 00:57:52 Etc/GMT-3] rating: '31.58'
+[26-Jun-2025 00:57:53 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:57:53 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:57:53 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:57:53 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:57:53 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:57:53 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 00:57:53 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 582
+[26-Jun-2025 00:59:54 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 00:59:54 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:00:26 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 01:00:26 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:02:38 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:02:38 Etc/GMT-3] Документ успешно загружен: task_id=33, file_name=Прокоп дороги.jpg, file_path=../uploads/task_documents/photoproject/1750888958_Прокоп дороги.jpg
+[26-Jun-2025 01:02:47 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:02:47 Etc/GMT-3] Документ успешно загружен: task_id=33, file_name=Подсыпка песка.jpg, file_path=../uploads/task_documents/photoproject/1750888967_Подсыпка песка.jpg
+[26-Jun-2025 01:03:08 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:03:08 Etc/GMT-3] Документ успешно загружен: task_id=33, file_name=Контрольная карта для количественного признака.docx, file_path=../uploads/task_documents/documents/1750888988_Контрольная карта для количественного признака.docx
+[26-Jun-2025 01:03:22 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:03:22 Etc/GMT-3] Документ успешно загружен: task_id=34, file_name=Асфальт.jpg, file_path=../uploads/task_documents/photoproject/1750889002_Асфальт.jpg
+[26-Jun-2025 01:03:29 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:03:29 Etc/GMT-3] Документ успешно загружен: task_id=34, file_name=укладкаАсфальта.jpg, file_path=../uploads/task_documents/photoproject/1750889009_укладкаАсфальта.jpg
+[26-Jun-2025 01:03:40 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:03:40 Etc/GMT-3] Документ успешно загружен: task_id=34, file_name=Операции с объектом.docx, file_path=../uploads/task_documents/documents/1750889020_Операции с объектом.docx
+[26-Jun-2025 01:06:06 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 01:06:06 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:06:48 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 01:06:48 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:08:36 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:08:36 Etc/GMT-3] Документ успешно загружен: task_id=35, file_name=Снос_стен.jpeg, file_path=../uploads/task_documents/photoproject/1750889316_Снос_стен.jpeg
+[26-Jun-2025 01:08:41 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:08:41 Etc/GMT-3] Документ успешно загружен: task_id=35, file_name=Снос_стен2.jpeg, file_path=../uploads/task_documents/photoproject/1750889321_Снос_стен2.jpeg
+[26-Jun-2025 01:08:49 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:08:49 Etc/GMT-3] Документ успешно загружен: task_id=35, file_name=схемаПомещения.jpg, file_path=../uploads/task_documents/drawings/1750889329_схемаПомещения.jpg
+[26-Jun-2025 01:09:02 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:09:02 Etc/GMT-3] Документ успешно загружен: task_id=35, file_name=Должностная инструкция.docx, file_path=../uploads/task_documents/documents/1750889342_Должностная инструкция.docx
+[26-Jun-2025 01:10:03 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:10:03 Etc/GMT-3] Документ успешно загружен: task_id=36, file_name=установкаСтен.png, file_path=../uploads/task_documents/photoproject/1750889403_установкаСтен.png
+[26-Jun-2025 01:10:12 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:10:12 Etc/GMT-3] Документ успешно загружен: task_id=36, file_name=УстановкаНовыхСтен.jpg, file_path=../uploads/task_documents/photoproject/1750889412_УстановкаНовыхСтен.jpg
+[26-Jun-2025 01:10:19 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:10:19 Etc/GMT-3] Документ успешно загружен: task_id=36, file_name=Схема.jpeg, file_path=../uploads/task_documents/drawings/1750889419_Схема.jpeg
+[26-Jun-2025 01:10:35 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:10:35 Etc/GMT-3] Документ успешно загружен: task_id=36, file_name=Отчет по проекту.pdf, file_path=../uploads/task_documents/reports/1750889435_Отчет по проекту.pdf
+[26-Jun-2025 01:12:45 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 01:12:45 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:13:00 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 01:13:00 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:17:25 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:17:25 Etc/GMT-3] Документ успешно загружен: task_id=37, file_name=выравниваниеТрактором.jpg, file_path=../uploads/task_documents/photoproject/1750889845_выравниваниеТрактором.jpg
+[26-Jun-2025 01:17:32 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:17:32 Etc/GMT-3] Документ успешно загружен: task_id=37, file_name=Выравнивание.jpeg, file_path=../uploads/task_documents/photoproject/1750889852_Выравнивание.jpeg
+[26-Jun-2025 01:17:40 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:17:40 Etc/GMT-3] Документ успешно загружен: task_id=37, file_name=Схема.jpeg, file_path=../uploads/task_documents/reports/1750889860_Схема.jpeg
+[26-Jun-2025 01:17:50 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:17:50 Etc/GMT-3] Документ успешно загружен: task_id=37, file_name=Маршруты документа.docx, file_path=../uploads/task_documents/documents/1750889870_Маршруты документа.docx
+[26-Jun-2025 01:20:12 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 01:20:12 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:20:34 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 01:20:34 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:21:20 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:21:20 Etc/GMT-3] Документ успешно загружен: task_id=38, file_name=выравниваниеТрактором.jpg, file_path=../uploads/task_documents/photoproject/1750890080_выравниваниеТрактором.jpg
+[26-Jun-2025 01:21:25 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:21:25 Etc/GMT-3] Документ успешно загружен: task_id=38, file_name=Выравнивание.jpeg, file_path=../uploads/task_documents/photoproject/1750890085_Выравнивание.jpeg
+[26-Jun-2025 01:21:33 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:21:33 Etc/GMT-3] Документ успешно загружен: task_id=38, file_name=Подсыпка песка.jpg, file_path=../uploads/task_documents/photoproject/1750890093_Подсыпка песка.jpg
+[26-Jun-2025 01:21:43 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:21:43 Etc/GMT-3] Документ успешно загружен: task_id=38, file_name=Операции с объектом.docx, file_path=../uploads/task_documents/documents/1750890103_Операции с объектом.docx
+[26-Jun-2025 01:22:13 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:22:13 Etc/GMT-3] Документ успешно загружен: task_id=38, file_name=Основные части здания.jpg, file_path=../uploads/task_documents/drawings/1750890133_Основные части здания.jpg
+[26-Jun-2025 01:22:35 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:22:35 Etc/GMT-3] Документ успешно загружен: task_id=39, file_name=цемет№2 пункт.jpg, file_path=../uploads/task_documents/photoproject/1750890155_цемет№2 пункт.jpg
+[26-Jun-2025 01:22:46 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:22:46 Etc/GMT-3] Документ успешно загружен: task_id=39, file_name=установкаСтен.png, file_path=../uploads/task_documents/photoproject/1750890166_установкаСтен.png
+[26-Jun-2025 01:23:00 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:23:00 Etc/GMT-3] Документ успешно загружен: task_id=39, file_name=Регламент Процедуры.docx, file_path=../uploads/task_documents/documents/1750890180_Регламент Процедуры.docx
+[26-Jun-2025 01:25:48 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 01:25:48 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:26:14 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 01:26:14 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 01:26:50 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:26:50 Etc/GMT-3] Документ успешно загружен: task_id=40, file_name=Дверной проем.jpg, file_path=../uploads/task_documents/drawings/1750890410_Дверной проем.jpg
+[26-Jun-2025 01:26:57 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:26:57 Etc/GMT-3] Документ успешно загружен: task_id=40, file_name=Основные элементы оконного проёма.jpg, file_path=../uploads/task_documents/drawings/1750890417_Основные элементы оконного проёма.jpg
+[26-Jun-2025 01:27:21 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:27:21 Etc/GMT-3] Документ успешно загружен: task_id=40, file_name=дверной проем.png, file_path=../uploads/task_documents/photoproject/1750890441_дверной проем.png
+[26-Jun-2025 01:27:34 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 01:27:34 Etc/GMT-3] Документ успешно загружен: task_id=40, file_name=Операции с атрибутами объекта.docx, file_path=../uploads/task_documents/documents/1750890454_Операции с атрибутами объекта.docx
+[26-Jun-2025 14:40:10 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 14:40:11 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 14:41:29 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:41:29 Etc/GMT-3] Документ успешно загружен: task_id=41, file_name=выравниваниеТрактором.jpg, file_path=../uploads/task_documents/photoproject/1750938089_выравниваниеТрактором.jpg
+[26-Jun-2025 14:41:35 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:41:35 Etc/GMT-3] Документ успешно загружен: task_id=41, file_name=Подсыпка песка.jpg, file_path=../uploads/task_documents/photoproject/1750938095_Подсыпка песка.jpg
+[26-Jun-2025 14:50:17 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:50:17 Etc/GMT-3] Документ успешно загружен: task_id=41, file_name=Жизненный цикл объекта.docx, file_path=../uploads/task_documents/documents/1750938617_Жизненный цикл объекта.docx
+[26-Jun-2025 14:50:25 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 14:50:25 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 14:50:59 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:50:59 Etc/GMT-3] Документ успешно загружен: task_id=42, file_name=Регламент Процедуры.docx, file_path=../uploads/task_documents/documents/1750938659_Регламент Процедуры.docx
+[26-Jun-2025 14:53:27 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 14:53:27 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 14:54:47 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 14:54:47 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 14:55:16 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:55:16 Etc/GMT-3] Документ успешно загружен: task_id=43, file_name=Выравнивание.jpeg, file_path=../uploads/task_documents/photoproject/1750938916_Выравнивание.jpeg
+[26-Jun-2025 14:55:44 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:55:44 Etc/GMT-3] Документ успешно загружен: task_id=43, file_name=ЦементВпол.jpg, file_path=../uploads/task_documents/photoproject/1750938944_ЦементВпол.jpg
+[26-Jun-2025 14:55:52 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:55:52 Etc/GMT-3] Документ успешно загружен: task_id=43, file_name=четрежШколы.png, file_path=../uploads/task_documents/drawings/1750938952_четрежШколы.png
+[26-Jun-2025 14:56:01 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:56:01 Etc/GMT-3] Документ успешно загружен: task_id=43, file_name=Операции с объектом.docx, file_path=../uploads/task_documents/documents/1750938961_Операции с объектом.docx
+[26-Jun-2025 14:56:12 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:56:12 Etc/GMT-3] Документ успешно загружен: task_id=44, file_name=Отчет по проекту.pdf, file_path=../uploads/task_documents/documents/1750938972_Отчет по проекту.pdf
+[26-Jun-2025 14:57:29 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 14:57:29 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 14:59:07 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:59:07 Etc/GMT-3] Документ успешно загружен: task_id=45, file_name=УстановкаНовыхСтен.jpg, file_path=../uploads/task_documents/photoproject/1750939147_УстановкаНовыхСтен.jpg
+[26-Jun-2025 14:59:15 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 14:59:15 Etc/GMT-3] Документ успешно загружен: task_id=45, file_name=Операции с объектом.docx, file_path=../uploads/task_documents/documents/1750939155_Операции с объектом.docx
+[26-Jun-2025 15:00:16 Etc/GMT-3] planned_budget: '12500000.00'
+[26-Jun-2025 15:00:16 Etc/GMT-3] actual_budget: '6800000.00'
+[26-Jun-2025 15:00:16 Etc/GMT-3] rating: '63.53'
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 277
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 298
+[26-Jun-2025 15:00:17 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 298
+[26-Jun-2025 15:03:22 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 15:03:22 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 15:04:55 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 15:04:55 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 15:05:32 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 15:05:32 Etc/GMT-3] Документ успешно загружен: task_id=47, file_name=Подсыпка песка.jpg, file_path=../uploads/task_documents/photoproject/1750939532_Подсыпка песка.jpg
+[26-Jun-2025 15:05:44 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 15:05:44 Etc/GMT-3] Документ успешно загружен: task_id=47, file_name=укладкаАсфальта.jpg, file_path=../uploads/task_documents/photoproject/1750939544_укладкаАсфальта.jpg
+[26-Jun-2025 15:05:52 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 15:05:52 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 15:06:09 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 15:06:09 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 15:06:54 Etc/GMT-3] Проектная роль пользователя: не определена
+[26-Jun-2025 15:06:54 Etc/GMT-3] Роль присвоена на основе глобальной роли: admin
+[26-Jun-2025 15:07:28 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 15:07:28 Etc/GMT-3] Документ успешно загружен: task_id=48, file_name=Отчет по проекту.pdf, file_path=../uploads/task_documents/reports/1750939648_Отчет по проекту.pdf
+[26-Jun-2025 15:07:38 Etc/GMT-3] Разрешена загрузка: пользователь имеет глобальную роль admin/manager (role_id=1)
+[26-Jun-2025 15:07:38 Etc/GMT-3] Документ успешно загружен: task_id=48, file_name=Должностная инструкция.docx, file_path=../uploads/task_documents/documents/1750939658_Должностная инструкция.docx
+[26-Jun-2025 15:33:22 Etc/GMT-3] planned_budget: '12500000.00'
+[26-Jun-2025 15:33:22 Etc/GMT-3] actual_budget: '6800000.00'
+[26-Jun-2025 15:33:22 Etc/GMT-3] rating: '63.53'
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 560
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 582
+[26-Jun-2025 15:33:24 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 582
+[26-Jun-2025 16:05:54 Etc/GMT-3] planned_budget: '12500000.00'
+[26-Jun-2025 16:05:54 Etc/GMT-3] actual_budget: '6800000.00'
+[26-Jun-2025 16:05:54 Etc/GMT-3] rating: '63.53'
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 578
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 603
+[26-Jun-2025 16:05:55 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 603
+[26-Jun-2025 16:07:10 Etc/GMT-3] planned_budget: '12500000.00'
+[26-Jun-2025 16:07:10 Etc/GMT-3] actual_budget: '6800000.00'
+[26-Jun-2025 16:07:10 Etc/GMT-3] rating: '63.53'
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:11 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 580
+[26-Jun-2025 16:07:12 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 605
+[26-Jun-2025 16:07:12 Etc/GMT-3] PHP Warning:  Undefined array key "task_id" in E:\soft\openserver\OSPanel\home\dbkurs\pages\generate_report.php on line 605

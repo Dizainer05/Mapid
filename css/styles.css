@@ -1,0 +1,127 @@
+/* Общие стили */
+body {
+    background: #f8f9fa;
+    transition: background-color 0.3s, color 0.3s;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+body.loaded {
+    opacity: 1;
+}
+.navbar {
+    z-index: 1050;
+    background: #212121;
+    box-shadow: 15px 15px 30px rgb(25, 25, 25), -15px -15px 30px rgb(60, 60, 60);
+}
+.content-container {
+    margin-top: 70px;
+    transition: margin-left 0.3s;
+}
+
+/* Стили формы */
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 20px;
+    position: relative;
+    background-color: #1a1a1a;
+    color: #fff;
+    border: 1px solid #333;
+    margin: 0 auto;
+}
+.title {
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    color: #00bfff;
+}
+.title::before, .title::after {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    left: 0px;
+    background-color: #00bfff;
+}
+.title::after {
+    animation: pulse 1s linear infinite;
+}
+.message, .signin {
+    font-size: 14.5px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.signin {
+    text-align: center;
+}
+.signin a {
+    color: #00bfff;
+}
+.signin a:hover {
+    text-decoration: underline royalblue;
+}
+.form label {
+    position: relative;
+}
+.form label .input {
+    background-color: #333;
+    color: #fff;
+    width: 100%;
+    padding: 20px 5px 5px 10px;
+    outline: 0;
+    border: 1px solid rgba(105, 105, 105, 0.397);
+    border-radius: 10px;
+    font-size: medium;
+}
+.form label .input + span {
+    color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    font-size: 0.9em;
+    cursor: text;
+    transition: 0.3s ease;
+}
+.form label .input:placeholder-shown + span {
+    top: 12.5px;
+    font-size: 0.9em;
+}
+.form label .input:focus + span,
+.form label .input:valid + span {
+    color: #00bfff;
+    top: 0px;
+    font-size: 0.7em;
+    font-weight: 600;
+}
+.submit {
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    background-color: #00bfff;
+}
+.submit:hover {
+    background-color: #00bfff96;
+}
+@keyframes pulse {
+    from {
+        transform: scale(0.9);
+        opacity: 1;
+    }
+    to {
+        transform: scale(1.8);
+        opacity: 0;
+    }
+}
+
+

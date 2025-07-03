@@ -1,0 +1,20 @@
+{
+    "name": "dizainer/dbkurs",
+    "autoload": {
+        "psr-4": {
+            "Dizainer\\Dbkurs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dizainer05",
+            "email": "nosko.adrian2005@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^1.3",
+        "phpoffice/phpspreadsheet": "^4.1",
+        "tecnickcom/tcpdf": "^6.8",
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
