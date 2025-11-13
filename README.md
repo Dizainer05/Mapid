@@ -97,17 +97,17 @@ php artisan serve
 ### Скриншоты интерфейса (`## 🖥️ Скриншоты интерфейса`)
 
 <div align="center">
-  <h3>Старница Авторизации</h3>
+  <h3>Страница Авторизации</h3>
   <img src="assets/auth.png" width="2000" alt="Construction Management System"/>
-  <h3>Старница Регистрации</h3>
+  <h3>Страница Регистрации</h3>
   <img src="assets/reg.png" width="2000" alt="Construction Management System"/>
-  <h3>Главаня страница</h3>
+  <h3>Главная страница</h3>
   <img src="assets/dashbord.png" width="2000" alt="Construction Management System"/>
-  <h3>Старница Проектов</h3>
+  <h3>Страница Проектов</h3>
   <img src="assets/project.png" width="2000" alt="Construction Management System"/>
-  <h3>Старница Профиля</h3>
+  <h3>Страница Профиля</h3>
   <img src="assets/avtar.png" width="2000" alt="Construction Management System"/>
-  <h3>Старница Админ-панель</h3>
+  <h3>Страница Админ-панель</h3>
   <img src="assets/admin.png" width="2000" alt="Construction Management System"/>
 
 </div>
